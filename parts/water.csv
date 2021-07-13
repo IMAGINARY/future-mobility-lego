@@ -1,0 +1,12 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+14719,6058329,14719,Tile 2 x 2 Corner,1,15,White,Solid Colors,1,0.43
+3005,300501,3005,Brick 1 x 1,1,15,White,Solid Colors,1,0.44
+3020,302001,3020,Plate 2 x 4,1,15,White,Solid Colors,1,1.2
+3020,302026,3020,Plate 2 x 4,11,0,Black,Solid Colors,1,1.2
+3031,6141594,3031,Plate 4 x 4,156,322,Medium Azure,Solid Colors,1,2.22
+3068b,306801,3068b,Tile 2 x 2 with Groove,1,15,White,Solid Colors,1,0.48
+87079,4560178,87079,Tile 2 x 4,1,15,White,Solid Colors,1,0.9
+98138,6322819,98138,"Tile, Round 1 x 1",156,322,Medium Azure,Solid Colors,1,0
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+8,6.87,,,,,,,,
