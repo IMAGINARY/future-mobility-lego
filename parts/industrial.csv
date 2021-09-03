@@ -1,16 +1,21 @@
 BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
-2431,243101,2431,Tile 1 x 4,1,15,White,Solid Colors,2,0.54
-25269,6172366,25269,"Tile, Round 1 x 1 Quarter",1,15,White,Solid Colors,1,0.1
-3002,300201,3002,Brick 2 x 3,1,15,White,Solid Colors,1,1.92
-3020,302001,3020,Plate 2 x 4,1,15,White,Solid Colors,1,1.2
-3022,302226,3022,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
-3022,302201,3022,Plate 2 x 2,1,15,White,Solid Colors,2,0.64
-3023,302301,3023,Plate 1 x 2,1,15,White,Solid Colors,1,0.36
-3023,302326,3023,Plate 1 x 2,11,0,Black,Solid Colors,1,0.36
-3031,4243817,3031,Plate 4 x 4,3,14,Yellow,Solid Colors,1,2.22
-85984,4547489,85984,Slope 30 1 x 2 x 2/3,1,15,White,Solid Colors,2,0.34
-98138,6284572,98138,"Tile, Round 1 x 1",1,15,White,Solid Colors,3,0.11
-3062old,,3062old,"Brick, Round 1 x 1 No Bottom Lip",1,15,White,Solid Colors,4,0.4
+2412b,241201,2412b.dat,"Tile, Modified 1 x 2 Grille with Bottom Groove / Lip",1,15,White,Solid Colors,1,0.23
+25269,6172366,25269.dat,"Tile, Round 1 x 1 Quarter",1,15,White,Solid Colors,1,0.1
+3003,300301,3003.dat,Brick 2 x 2,1,15,White,Solid Colors,1,1.35
+3020,302001,3020.dat,Plate 2 x 4,1,15,White,Solid Colors,1,1.2
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
+3022,302201,3022.dat,Plate 2 x 2,1,15,White,Solid Colors,2,0.64
+3023,302301,3023.dat,Plate 1 x 2,1,15,White,Solid Colors,2,0.36
+3023,302326,3023.dat,Plate 1 x 2,11,0,Black,Solid Colors,1,0.36
+3024,302401,3024.dat,Plate 1 x 1,1,15,White,Solid Colors,1,0.2
+3031,4243817,3031.dat,Plate 4 x 4,3,14,Yellow,Solid Colors,1,2.22
+3062b,306201,3062b.dat,"Brick, Round 1 x 1 Open Stud",1,15,White,Solid Colors,1,0.28
+3068b,306801,3068b.dat,Tile 2 x 2 with Groove,1,15,White,Solid Colors,1,0.48
+3069b,306901,3069b.dat,Tile 1 x 2 with Groove,1,15,White,Solid Colors,1,0.26
+3070b,307001,3070b.dat,Tile 1 x 1 with Groove (3070),1,15,White,Solid Colors,1,0.16
+54200,4504369,54200.dat,Slope 30 1 x 1 x 2/3,1,15,White,Solid Colors,2,0.21
+4589b,4518400,59900.dat,Cone 1 x 1 with Top Groove,1,15,White,Solid Colors,2,0.25
+98138,6284572,98138.dat,"Tile, Round 1 x 1",1,15,White,Solid Colors,2,0.11
 ,,,,,,,,,
 Total qty,Total Weight,,,,,,,,
-20,11.77,,,,,,,,
+22,10.62,,,,,,,,

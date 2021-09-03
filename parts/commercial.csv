@@ -1,15 +1,15 @@
 BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
-14716,6055541,14716,Brick 1 x 1 x 3,1,15,White,Solid Colors,1,1.24
-14719,6058329,14719,Tile 2 x 2 Corner,1,15,White,Solid Colors,3,0.43
-3004,300401,3004,Brick 1 x 2,1,15,White,Solid Colors,1,0.8
-3020,302001,3020,Plate 2 x 4,1,15,White,Solid Colors,1,1.2
-3022,302226,3022,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
-3023,302326,3023,Plate 1 x 2,11,0,Black,Solid Colors,1,0.36
-3023,302301,3023,Plate 1 x 2,1,15,White,Solid Colors,1,0.36
-3031,4243815,3031,Plate 4 x 4,7,1,Blue,Solid Colors,1,2.22
-3069a,,3069a,Tile 1 x 2 without Groove,1,15,White,Solid Colors,3,0.27
-3245c,4113261,3245c,Brick 1 x 2 x 2 with Inside Stud Holder,1,15,White,Solid Colors,2,1.5
-98138,6284572,98138,"Tile, Round 1 x 1",1,15,White,Solid Colors,1,0.11
+14719,6058329,14719.dat,Tile 2 x 2 Corner,1,15,White,Solid Colors,3,0.43
+3004,300401,3004.dat,Brick 1 x 2,1,15,White,Solid Colors,1,0.8
+3005,300501,3005.dat,Brick 1 x 1,1,15,White,Solid Colors,3,0.44
+3020,302001,3020.dat,Plate 2 x 4,1,15,White,Solid Colors,1,1.2
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
+3023,302326,3023.dat,Plate 1 x 2,11,0,Black,Solid Colors,1,0.36
+3023,302301,3023.dat,Plate 1 x 2,1,15,White,Solid Colors,1,0.36
+3031,4243815,3031.dat,Plate 4 x 4,7,1,Blue,Solid Colors,1,2.22
+3069b,306901,3069b.dat,Tile 1 x 2 with Groove,1,15,White,Solid Colors,3,0.26
+3245c,4113261,3245c.dat,Brick 1 x 2 x 2 with Inside Stud Holder,1,15,White,Solid Colors,2,1.5
+98138,6284572,98138.dat,"Tile, Round 1 x 1",1,15,White,Solid Colors,1,0.11
 ,,,,,,,,,
 Total qty,Total Weight,,,,,,,,
-16,12.03,,,,,,,,
+18,12.08,,,,,,,,

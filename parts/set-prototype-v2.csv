@@ -1,0 +1,36 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+14719,6058329,14719.dat,Tile 2 x 2 Corner,1,15,White,Solid Colors,21,0.43
+2412b,241201,2412b.dat,"Tile, Modified 1 x 2 Grille with Bottom Groove / Lip",1,15,White,Solid Colors,1,0.23
+25269,6172366,25269.dat,"Tile, Round 1 x 1 Quarter",1,15,White,Solid Colors,1,0.1
+3003,300301,3003.dat,Brick 2 x 2,1,15,White,Solid Colors,1,1.35
+3004,300401,3004.dat,Brick 1 x 2,1,15,White,Solid Colors,5,0.8
+3005,300501,3005.dat,Brick 1 x 1,1,15,White,Solid Colors,17,0.44
+3020,302026,3020.dat,Plate 2 x 4,11,0,Black,Solid Colors,2,1.2
+3020,302001,3020.dat,Plate 2 x 4,1,15,White,Solid Colors,12,1.2
+3022,302201,3022.dat,Plate 2 x 2,1,15,White,Solid Colors,18,0.64
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,16,0.64
+3023,302301,3023.dat,Plate 1 x 2,1,15,White,Solid Colors,5,0.36
+3023,302326,3023.dat,Plate 1 x 2,11,0,Black,Solid Colors,4,0.36
+3024,302401,3024.dat,Plate 1 x 1,1,15,White,Solid Colors,1,0.2
+3031,4243831,3031.dat,Plate 4 x 4,85,72,Dark Bluish Gray,Solid Colors,8,2.22
+3031,4243817,3031.dat,Plate 4 x 4,3,14,Yellow,Solid Colors,1,2.22
+3031,4243815,3031.dat,Plate 4 x 4,7,1,Blue,Solid Colors,1,2.22
+3031,4243814,3031.dat,Plate 4 x 4,5,4,Red,Solid Colors,2,2.22
+3031,6141594,3031.dat,Plate 4 x 4,156,322,Medium Azure,Solid Colors,2,2.22
+3031,4617799,3031.dat,Plate 4 x 4,36,10,Bright Green,Solid Colors,2,2.22
+3062b,306201,3062b.dat,"Brick, Round 1 x 1 Open Stud",1,15,White,Solid Colors,1,0.28
+3068b,306801,3068b.dat,Tile 2 x 2 with Groove,1,15,White,Solid Colors,13,0.48
+3069b,306901,3069b.dat,Tile 1 x 2 with Groove,1,15,White,Solid Colors,6,0.26
+3070b,307001,3070b.dat,Tile 1 x 1 with Groove (3070),1,15,White,Solid Colors,1,0.16
+3245c,4113261,3245c.dat,Brick 1 x 2 x 2 with Inside Stud Holder,1,15,White,Solid Colors,2,1.5
+35464,6286834,35464.dat,Slope 45 1 x 1 Double,1,15,White,Solid Colors,4,0
+54200,4504369,54200.dat,Slope 30 1 x 1 x 2/3,1,15,White,Solid Colors,8,0.21
+4589b,4518400,59900.dat,Cone 1 x 1 with Top Groove,1,15,White,Solid Colors,2,0.25
+87079,4560178,87079.dat,Tile 2 x 4,1,15,White,Solid Colors,12,0.9
+98138,6284572,98138.dat,"Tile, Round 1 x 1",1,15,White,Solid Colors,3,0.11
+98138,6322819,98138.dat,"Tile, Round 1 x 1",156,322,Medium Azure,Solid Colors,2,0
+98138,,98138.dat,"Tile, Round 1 x 1",36,10,Bright Green,Solid Colors,2,0.11
+98138,6284596,98138.dat,"Tile, Round 1 x 1",85,72,Dark Bluish Gray,Solid Colors,8,0.11
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+184,125.36,,,,,,,,
